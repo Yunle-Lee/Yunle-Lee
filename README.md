@@ -7,6 +7,8 @@ Yunle-Lee<br>
 ### 一位没技术但热情澎湃的极客      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="24" height="24" alt="NVIDIA">
 
 > NVIDIA 和 Elon Musk,Steve Jobs 的狂热粉丝
+> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 - 🔭 我一般从事这些工作与爱好 **YOLO相关的目标检测，实例分割开
 一些垃圾的小网站

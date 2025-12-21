@@ -1,10 +1,11 @@
 # 亲爱的你，好耶 👋, 我的名字是Karoli  
 Yunle-Lee<br>  
-* 南工大人工智能专业
+* 南京工业大学  人工智能专业
 * 高木同学，久世静 ，lain
-> Do u know neuro-sama?Okay ,we get close 🤣
+> Do u know neuro-sama?Okay ,we meet closely! 🤣
 
-### 一位没技术但热情澎湃的极客
+### 一位没技术但热情澎湃的极客      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="24" height="24" alt="NVIDIA">
+
 > NVIDIA 和 Elon Musk,Steve Jobs 的狂热粉丝
 
 - 🔭 我一般从事这些工作与爱好 **YOLO相关的目标检测，实例分割开
@@ -22,13 +23,9 @@ Robomaster机械与电控相关知识的学习
 
 - 📫 联系我这个可怜的家伙？(HAHA,okok)<br>
 ## 电话：`16602560207`          QQ邮箱  `3910387373@qq.com` 
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-<h3 align="left">想另辟蹊径跟我沟通吗？
-<p>  不好意思哈，就这些了 </p>
-<p align="left">
-<a href="https://github.com/Yunle-Lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yunle-Lee" height="30" width="40" /></a>
-<a href="https://twitter.com/karoli " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karoli " height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Coding & Tools (maybe there some lib )
   <p>调库大王吗？666</p>

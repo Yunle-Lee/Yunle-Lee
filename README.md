@@ -9,18 +9,20 @@ Yunle-Lee  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=你好�
 > NVIDIA 和 Elon Musk,Steve Jobs 的狂热粉丝
 
 
-- 🔭 我一般从事这些工作与爱好 **YOLO相关的目标检测，实例分割开
+- 🔭 我一般从事这些工作与爱好**YOLO相关的目标检测，实例分割开
 一些垃圾的小网站
 RM相关的工作(?)可能吧，主要只是对视觉感兴趣吧**
 
-- 🌱我在学习这些家伙的路上 * C++    python     Go    YOLOv8   DeepLearning  *    <br>  *   Machine Learning        XGBoost        pandas           matplotlib    *
+- 🌱我在学习这些家伙的路上
+- C++  🥸  python 😶‍🌫️  Go 🧑‍💻  YOLOv8 🤠  DeepLearning  👾  Machine Learning   🐨  XGBoost  🦤 pandas  🌝  matplotlib  
 
-- 👯 想找到这些方面的大佬和 **与计算机视觉相关的项目
+- 👯 想找到这些方面的大佬和
+> 与计算机视觉相关的项目
 用于无人机或机器人的视觉||isaacsim相关的强化学习的内容
 网站的搭建(?)
 Robomaster机械与电控相关知识的学习
 网络安全相关的趣闻
-生命科学**
+生命科学
 
 - 📫 联系我这个可怜的家伙？(HAHA,okok)<br>
 ## 电话：`16602560207`          QQ邮箱  `3910387373@qq.com` 

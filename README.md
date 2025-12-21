@@ -1,5 +1,5 @@
-# 亲爱的你，好耶 👋, 我的名字是Karoli-Lee
-Yunle-Lee<br>  
+# 😂亲爱的你，好耶 👋, 我的名字是Karoli-Lee
+Yunle-Lee  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=你好，我是Yunle-Lee;你也可以叫我karoli;我热爱英伟达与AI技术&center=true&size=17)  <br>
 * 南京工业大学  人工智能专业
 * 高木同学，久世静 ，lain
 > Do u know neuro-sama?Okay ,we meet closely! 🤣
@@ -24,7 +24,7 @@ Robomaster机械与电控相关知识的学习
 
 - 📫 联系我这个可怜的家伙？(HAHA,okok)<br>
 ## 电话：`16602560207`          QQ邮箱  `3910387373@qq.com` 
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)[![Bilibili](https://img.shields.io/badge/B站-3546971138689217-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/3546971138689217)
 
 
 
@@ -40,5 +40,13 @@ Robomaster机械与电控相关知识的学习
 ### 📊 GitHub活动统计
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunle-Lee&theme=github&custom_title=Yunle-Lee的代码贡献日历)
 <!--   stats + languages -->
+## 🛠️ 技术栈
+![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,java,kotlin,python,md,idea,vscode&theme=light&perline=9)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)  ![Karoli's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunle-Lee&theme=radical&layout=compact) 
+| 统计卡片 | 语言分布 |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunle-Lee&layout=compact&theme=radical) |
+
+## 📫 联系与关注
+[![Bilibili](https://img.shields.io/badge/B站-3546971138689217-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/3546971138689217)
+[![GitHub](https://img.shields.io/badge/GitHub-Yunle--Lee-181717?style=for-the-badge&logo=github)](https://github.com/Yunle-Lee)

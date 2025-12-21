@@ -1,4 +1,4 @@
-# 亲爱的你，好耶 👋, 我的名字是Karoli  
+# 亲爱的你，好耶 👋, 我的名字是Karoli-Lee
 Yunle-Lee<br>  
 * 南京工业大学  人工智能专业
 * 高木同学，久世静 ，lain
@@ -7,8 +7,7 @@ Yunle-Lee<br>
 ### 一位没技术但热情澎湃的极客      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="24" height="24" alt="NVIDIA">
 
 > NVIDIA 和 Elon Musk,Steve Jobs 的狂热粉丝
-> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+
 
 - 🔭 我一般从事这些工作与爱好 **YOLO相关的目标检测，实例分割开
 一些垃圾的小网站
@@ -41,6 +40,5 @@ Robomaster机械与电控相关知识的学习
 ### 📊 GitHub活动统计
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunle-Lee&theme=github&custom_title=Yunle-Lee的代码贡献日历)
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Yunle-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=radical&include_all_commits=true) | ![Karoli's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunle-Lee&theme=radical&layout=compact) |
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)  ![Karoli's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunle-Lee&theme=radical&layout=compact) 

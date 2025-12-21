@@ -16,9 +16,8 @@ RM相关的工作(?)可能吧，主要只是对视觉感兴趣吧**
 - 🌱我在学习这些家伙的路上
 - C++  🥸  python 😶‍🌫️  Go 🧑‍💻  YOLOv8 🤠  DeepLearning  👾  Machine Learning   🐨  XGBoost  🦤 pandas  🌝  matplotlib  
 
-- 👯 想找到这些方面的大佬和
-> 与计算机视觉相关的项目
-用于无人机或机器人的视觉||isaacsim相关的强化学习的内容
+- 👯 想找到这些方面的大佬和与计算机视觉相关的项目
+> 用于无人机或机器人的视觉||isaacsim相关的强化学习的内容
 网站的搭建(?)
 Robomaster机械与电控相关知识的学习
 网络安全相关的趣闻

@@ -1,5 +1,5 @@
 # 😂亲爱的你，好耶 👋, 我的名字是Karoli-Lee
-Yunle-Lee  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=你好，我是Yunle-Lee;你也可以叫我karoli;我热爱英伟达与AI技术&center=true&size=17)  <br>
+Yunle-Lee   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16630D&background=2CCA3A00&width=435&lines=%E6%88%91%E5%8F%ABkaroli%EF%BC%8C%E4%BD%A0%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91Yunle-Lee;%E6%88%91%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E7%B2%89%E4%B8%9D%EF%BC%8C%E4%B9%9F%E6%98%AF%E4%B8%80%E4%BD%8D%E7%83%AD%E7%88%B1%E6%8A%80%E6%9C%AF%E7%9A%84%E6%9E%81%E5%AE%A2;%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%88%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%96%B9%E5%BC%8F%E8%81%94%E7%B3%BB%E6%88%91%E5%91%A6)](https://git.io/typing-svg)<br>
 * 南京工业大学  人工智能专业
 * 高木同学，久世静 ，lain
 > Do u know neuro-sama?Okay ,we meet closely! 🤣

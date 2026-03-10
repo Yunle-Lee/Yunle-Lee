@@ -6,6 +6,7 @@ Lover:💕Takgi，shizika ，lain 💕
 ## tele：`16602560207`          QQmail  `3910387373@qq.com` 
 ## Projects:
 - 💕 **[Takaji desktop cutie](https://github.com/Yunle-Lee/Takaji_the_desktop_cutie)** - A desktopPet run with the foundation of DEEPSEEK api key
+- 💻 **[Touchwithchat](https://github.com/Yunle-Lee/Touchwithchat/tree/main)** - A deepseekapi-based panel that u can switch between chatting&controlling the PC
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)[![Bilibili](https://img.shields.io/badge/B站-3546971138689217-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/3546971138689217)
 

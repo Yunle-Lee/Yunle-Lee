@@ -26,5 +26,5 @@ Lover:💕Takgi，shizika ，lain 💕
 ![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,java,kotlin,python,md,idea,vscode&theme=light&perline=9)
 
 ## 📫 More Contact
-[![Bilibili](https://img.shields.io/badge/B站-3546971138689217-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/3546971138689217)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Yunle--Lee-181717?style=for-the-badge&logo=github)](https://github.com/Yunle-Lee)

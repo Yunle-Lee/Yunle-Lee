@@ -1,5 +1,5 @@
 # Hi, I'm Yunle-Lee 👋
-Yunnle-Lee   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16630D&background=2CCA3A00&width=435&lines=%E6%88%91%E5%8F%ABkaroli%EF%BC%8C%E4%BD%A0%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91Yunle-Lee;%E6%88%91%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E7%B2%89%E4%B8%9D%EF%BC%8C%E4%B9%9F%E6%98%AF%E4%B8%80%E4%BD%8D%E7%83%AD%E7%88%B1%E6%8A%80%E6%9C%AF%E7%9A%84%E6%9E%81%E5%AE%A2;%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%88%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%96%B9%E5%BC%8F%E8%81%94%E7%B3%BB%E6%88%91%E5%91%A6)](https://git.io/typing-svg)<br>
+Yunnle-Lee [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE14E9&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFKaroli+Lee+;%E6%88%91%E6%98%AF%E9%AB%98%E6%9C%A8%E5%90%8C%E5%AD%A6%E7%9A%84%E7%B2%89%E4%B8%9D%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%8C%97%E6%9D%A1%E7%9A%84%E6%9C%8B%E5%8F%8B;%E5%95%A5%E4%B9%9F%E4%B8%8D%E4%BC%9A%EF%BC%8C%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%EF%BC%8C%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81)](https://git.io/typing-svg)<br>
 Lover:💕Takgi，shizika ，lain 💕
 <img src="https://cdn.simpleicons.org/nvidia/76B900" width="24" height="24" alt="NVIDIA"> 📍 **连云港 ↔ 南京** 
 
@@ -21,7 +21,17 @@ Lover:💕Takgi，shizika ，lain 💕
 ![](https://count.getloli.com/get/@Yunle-Lee.github.readme)
 </br>
 
-<!--   green snake -->
+## 📊 GitHub 统计卡片
+
+<div align="center">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yunle-Lee&theme=default" alt="资料详情" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yunle-Lee&theme=default" alt="仓库语言" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yunle-Lee&theme=default" alt="GitHub统计" />
+  </div>
+</div>
+
+
 ### 📊 GitHub status
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunle-Lee&theme=github&custom_title=Yunle-Lee的代码贡献日历)
 <!--   stats + languages -->

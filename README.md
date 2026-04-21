@@ -5,10 +5,10 @@ Lover:💕Takgi，shizika ，lain 💕
 
 ## tele：`16602560207`          QQmail  `3910387373@qq.com` 
 ## Projects:
-- 👾 **[Leema.cpp](https://github.com/Yunle-Lee/Leema.cpp)** - A TUI framework can run two or more models togerther  to compare the speed and quality `CAN DIY THE DISPLAY`
-- 👨 **[KiLee.cn](https://kilee.cn/) ** - My personal website that combine my bunch of my info &embedding AI chats 
+- 👾 **[Leema.cpp](https://github.com/Yunle-Lee/Leema.cpp)** - A TUI framework runs multi-models together to compare the speed&quality `CAN DIY THE DISPLAY`
+- 👨 **[KiLee.cn](https://kilee.cn/)** - My personal website combined with bunchs of my info & embedding AI chatbots 
 - 💕 **[Takaji desktop cutie](https://github.com/Yunle-Lee/Takaji_the_desktop_cutie)** - A desktopPet run with the foundation of DEEPSEEK api key
-- 💻 **[Touchwithchat](https://github.com/Yunle-Lee/Touchwithchat/tree/main)** - A deepseekapi-based panel that u can switch between chatting&controlling the PC
+- 💻 **[Touchwithchat](https://github.com/Yunle-Lee/Touchwithchat/tree/main)** - A DS-api-based panel that can switch between chat&control the PC
 - 🧑‍💻 **[Geegle](https://github.com/Yunle-Lee/Deegle)** - A simple asf panel that use the Deepseek api key and imitate Google Chrime panel `NO CHEATING JUST FUN`
 - 🎞️ **[CANNsim VS CUDA](https://github.com/Yunle-Lee/CANNsim-CUDA/tree/main)** - A tui panel compare the algorithm in CANN SIM with in CUDA 
 

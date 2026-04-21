@@ -11,29 +11,9 @@ Lover:💕Takgi，shizika ，lain 💕
 - 💻 **[Touchwithchat](https://github.com/Yunle-Lee/Touchwithchat/tree/main)** - A DS-api-based panel that can switch between chat&control the PC
 - 🧑‍💻 **[Geegle](https://github.com/Yunle-Lee/Deegle)** - A simple asf panel that use the Deepseek api key and imitate Google Chrime panel `NO CHEATING JUST FUN`
 - 🎞️ **[CANNsim VS CUDA](https://github.com/Yunle-Lee/CANNsim-CUDA/tree/main)** - A tui panel compare the algorithm in CANN SIM with in CUDA 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=go,tensorflow,pytorch,opencv,anaconda,fastapi,md,py,raspberrypi,sklearn&theme=light)](https://skillicons.dev)
 
-<h3 align="left">My Technical Stack</h3>
-<table align="left" border="0">
-  <tr>
-    <td align="center"><a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" width="40" alt="anaconda" /></a></td>
-    <td align="center"><a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="40" alt="arduino" /></a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" alt="git" /></a></td>
-    <td align="center"><a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" width="40" alt="huggingface" /></a></td>
-    <td align="center"><a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" alt="jupyter" /></a></td>
-    <td align="center"><a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" alt="langchain" /></a></td>
-    <td align="center"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="linux" /></a></td>
-    <td align="center"><a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="matplotlib" /></a></td>
-    <td align="center"><a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="numpy" /></a></td>
-    <td align="center"><a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama" width="40" alt="ollama" /></a></td>
-    <td align="center"><a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="40" alt="opencv" /></a></td>
-    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="pandas" /></a></td>
-    <td align="center"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="pytorch" /></a></td>
-    <td align="center"><a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" alt="scikit_learn" /></a></td>
-    <td align="center"><a href="https://seaborn.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="seaborn" /></a></td>
-    <td align="center"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="tensorflow" /></a></td>
-  </tr>
-</table>
-<br clear="both">
 
 ## My Tools& friends
 <p>

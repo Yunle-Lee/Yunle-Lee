@@ -45,6 +45,16 @@ Lover:💕Takgi，shizika ，lain 💕
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/codex-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openclaw-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/figma-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/obsidian-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/perplexity-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/nousresearch.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/n8n-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/trae-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qwen-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huawei.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/comfyui.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/grok.png" width="48" />
+
 
 </p>
 

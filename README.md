@@ -1,5 +1,5 @@
 # Hi, I'm Yunle-Lee 👋
-Yunnle-Lee [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE14E9&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFKaroli+Lee+;%E6%88%91%E6%98%AF%E9%AB%98%E6%9C%A8%E5%90%8C%E5%AD%A6%E7%9A%84%E7%B2%89%E4%B8%9D%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%8C%97%E6%9D%A1%E7%9A%84%E6%9C%8B%E5%8F%8B;%E5%95%A5%E4%B9%9F%E4%B8%8D%E4%BC%9A%EF%BC%8C%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%EF%BC%8C%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81)](https://git.io/typing-svg)<br>
+Yunnle-Lee(KiLee/Karoli-Lee) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE14E9&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFKaroli+Lee+;%E6%88%91%E6%98%AF%E9%AB%98%E6%9C%A8%E5%90%8C%E5%AD%A6%E7%9A%84%E7%B2%89%E4%B8%9D%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%8C%97%E6%9D%A1%E7%9A%84%E6%9C%8B%E5%8F%8B;%E5%95%A5%E4%B9%9F%E4%B8%8D%E4%BC%9A%EF%BC%8C%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%EF%BC%8C%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81)](https://git.io/typing-svg)<br>
 Lover:💕Takgi，shizika ，lain 💕
 <img src="https://cdn.simpleicons.org/nvidia/76B900" width="24" height="24" alt="NVIDIA"> 📍 **连云港 ↔ 南京** 
 
@@ -57,8 +57,8 @@ Lover:💕Takgi，shizika ，lain 💕
 ### 📊 GitHub status
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunle-Lee&theme=github&custom_title=Yunle-Lee的代码贡献日历)
 <!--   stats + languages -->
-## 🛠️ Tech
-![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,java,kotlin,python,md,idea,vscode&theme=light&perline=9)
+## 🛠️ Used OS
+![My Skills](https://skillicons.dev/icons?i=apple,windows,arch,debian,kali,linux,nix,ubuntu&theme=light&perline=9)
 
 ## 📫 More Contact
 

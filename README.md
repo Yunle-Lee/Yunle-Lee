@@ -35,7 +35,21 @@ Lover:💕Takgi，shizika ，lain 💕
 </table>
 <br clear="both">
 
+## My Tools& friends
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claudecode-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/aistudio.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/cursor.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/notebooklm.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/codex-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openclaw-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/figma-color.png" width="48" />
+
+</p>
+
 ---
+
 ![](https://count.getloli.com/get/@Yunle-Lee.github.readme)
 </br>
 

@@ -51,11 +51,9 @@ Lover:💕Takgi，shizika ，lain 💕
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yunle-Lee&theme=radical&column=7&margin-w=15&no-bg=false&no-frame=false" alt="github-trophy" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yunle-Lee&theme=flat&column=7" alt="github-trophy" />
+</p>
 
 ## 📊 GitHub 统计卡片
 

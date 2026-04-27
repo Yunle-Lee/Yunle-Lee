@@ -20,6 +20,7 @@ Lover:💕Takgi，shizika ，lain 💕
 <p>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claudecode-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/aistudio.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langchain.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/cursor.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/notebooklm.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/antigravity-color.png" width="48" />
@@ -32,8 +33,8 @@ Lover:💕Takgi，shizika ，lain 💕
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/n8n-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/trae-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qwen-color.png" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huawei.png" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/comfyui.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huawei-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/comfyui-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/grok.png" width="48" />
 
 

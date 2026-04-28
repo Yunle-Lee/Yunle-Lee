@@ -50,6 +50,10 @@ Lover:💕Takgi，shizika ，lain 💕
   <img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+## 🏆 GitHub Stats Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yunle-Lee&show_icons=true&theme=radical" alt="github-stats" />
+</p>
 
 ## 📊 GitHub 统计卡片
 

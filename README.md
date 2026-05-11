@@ -11,7 +11,8 @@ Lover:💕Takgi，shizika ，lain 💕
 - 💕 **[Takaji desktop cutie](https://github.com/Yunle-Lee/Takaji_the_desktop_cutie)** - A desktopPet run with the foundation of DEEPSEEK api key
 - 💻 **[Touchwithchat](https://github.com/Yunle-Lee/Touchwithchat/tree/main)** - A DS-api-based panel that can switch between chat&control the PC
 - 🧑‍💻 **[Geegle](https://github.com/Yunle-Lee/Deegle)** - A simple asf panel that use the Deepseek api key and imitate Google Chrime panel `NO CHEATING JUST FUN`
-- 🎞️ **[CANNsim VS CUDA](https://github.com/Yunle-Lee/CANNsim-CUDA/tree/main)** - A tui panel compare the algorithm in CANN SIM with in CUDA 
+- 🎞️ **[CANNsim VS CUDA](https://github.com/Yunle-Lee/CANNsim-CUDA/tree/main)** - A tui panel compare the algorithm in CANN SIM with in CUDA
+- ☠️ **[miniCANN-mind](https://github.com/Yunle-Lee/miniCANN-mind)** - My personal study note of minimind on HUAWEI CANN env `From scratch`
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,tensorflow,pytorch,opencv,anaconda,fastapi,md,py,raspberrypi,sklearn&theme=light)](https://skillicons.dev)
 

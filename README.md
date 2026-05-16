@@ -5,6 +5,7 @@ Lover:💕Takgi，shizika ，lain 💕
 
 ## tele：`16602560207`          QQmail  `3910387373@qq.com` 
 ## Projects:
+- 🧠 **[tq3-ascend-port](https://github.com/Yunle-Lee/tq3-ascend-port)** -TQ3 ascend version by cpp & only solve some issue to fit 910B-npu
 - 🤖 **[KiLee-agent](https://github.com/Yunle-Lee/KiLee-agent)** -A agent cli based on china mainly model api key , code, bash &Mem 
 - 👾 **[Leema.cpp](https://github.com/Yunle-Lee/Leema.cpp)** - A TUI framework runs multi-models together to compare the speed&quality `CAN DIY THE DISPLAY`
 - 👨 **[KiLee.cn](https://kilee.cn/)** - My personal website combined with bunchs of my info & embedding AI chatbots 

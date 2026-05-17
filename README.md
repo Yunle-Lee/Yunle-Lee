@@ -3,7 +3,7 @@ Yunnle-Lee(KiLee/Karoli-Lee) [![Typing SVG](https://readme-typing-svg.demolab.co
 Lover:💕Takgi，shizika ，lain 💕
 <img src="https://cdn.simpleicons.org/nvidia/76B900" width="24" height="24" alt="NVIDIA"> 📍 **连云港 ↔ 南京** 
 
-## tele：`16602560207`          QQmail  `3910387373@qq.com` 
+## QQmail  `3910387373@qq.com` 
 ## Projects:
 - 🧠 **[tq3-ascend-port](https://github.com/Yunle-Lee/tq3-ascend-port)** -TQ3 ascend version by cpp & only solve some issue to fit 910B-npu
 - 🤖 **[KiLee-agent](https://github.com/Yunle-Lee/KiLee-agent)** -A agent cli based on china mainly model api key , code, bash &Mem 

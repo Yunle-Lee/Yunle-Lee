@@ -5,6 +5,7 @@ Lover:💕Takgi，shizika ，lain 💕
 
 ## QQmail  `3910387373@qq.com` 
 ## Projects:
+- 🤔 **[CANN Do Nanocaht](https://github.com/Yunle-Lee/CANN-Do-Nanochat)** - CANN version Nanochat rebuilt the ground operator into CANN version npu-version
 - 🧠 **[tq3-ascend-port](https://github.com/Yunle-Lee/tq3-ascend-port)** -TQ3 ascend version by cpp & only solve some issue to fit 910B-npu
 - 🤖 **[KiLee-agent](https://github.com/Yunle-Lee/KiLee-agent)** -A agent cli based on china mainly model api key , code, bash &Mem 
 - 👾 **[Leema.cpp](https://github.com/Yunle-Lee/Leema.cpp)** - A TUI framework runs multi-models together to compare the speed&quality `CAN DIY THE DISPLAY`

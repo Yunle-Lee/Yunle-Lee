@@ -16,6 +16,7 @@ Lover:💕Takgi，shizika ，lain 💕
 - 🧑‍💻 **[Geegle](https://github.com/Yunle-Lee/Deegle)** - A simple asf panel that use the Deepseek api key and imitate Google Chrime panel `NO CHEATING JUST FUN`
 - 🎞️ **[CANNsim VS CUDA](https://github.com/Yunle-Lee/CANNsim-CUDA/tree/main)** - A tui panel compare the algorithm in CANN SIM with in CUDA
 - ☠️ **[miniCANN-mind](https://github.com/Yunle-Lee/miniCANN-mind)** - My personal study note of minimind on HUAWEI CANN env `From scratch`
+- 👺 **[megaQwen-A10](https://github.com/Yunle-Lee/MegaQwen-A10)** - MegaQwen suit for A10 Nvidia GPU with 24VRAM 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,tensorflow,pytorch,opencv,anaconda,fastapi,md,py,raspberrypi,sklearn&theme=light)](https://skillicons.dev)
 

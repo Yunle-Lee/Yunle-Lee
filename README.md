@@ -7,7 +7,7 @@
 - 🧠 **[tq3-ascend-port](https://github.com/Yunle-Lee/tq3-ascend-port)** -TQ3 ascend version by cpp & only solve some issue to fit 910B-npu
 - 🤖 **[KiLee-agent](https://github.com/Yunle-Lee/KiLee-agent)** -A agent cli based on china mainly model api key , code, bash &Mem 
 - 👾 **[Leema.cpp](https://github.com/Yunle-Lee/Leema.cpp)** - A TUI framework runs multi-models together to compare the speed&quality `CAN DIY THE DISPLAY`
-- 👨 **[KiLee.cn](https://kilee.cn/)** - My personal website combined with bunchs of my info & embedding AI chatbots 
+- 👨 **[KiLee.cn](https://github.com/Yunle-Lee/KiLee.cn)** - My personal website combined with bunchs of my info & embedding AI chatbots 
 - 💕 **[Takaji desktop cutie](https://github.com/Yunle-Lee/Takaji_the_desktop_cutie)** - A desktopPet run with the foundation of DEEPSEEK api key
 - 💻 **[Touchwithchat](https://github.com/Yunle-Lee/Touchwithchat/tree/main)** - A DS-api-based panel that can switch between chat&control the PC
 - 🧑‍💻 **[Geegle](https://github.com/Yunle-Lee/Deegle)** - A simple asf panel that use the Deepseek api key and imitate Google Chrime panel `NO CHEATING JUST FUN`

@@ -1,5 +1,4 @@
-# Hi, I'm Yunle-Lee 👋
-
+# Hi, I'm KiLee 👋
 ## QQmail  `3910387373@qq.com` 
 ## Projects:
 - 🍼 **[Nano-VLLm for Baby](https://github.com/Yunle-Lee/Nano-vllm_for_baby)** -A very detailed notes& analysis about nano-vllm for baby or greenhands
@@ -14,11 +13,11 @@
 - 🎞️ **[CANNsim VS CUDA](https://github.com/Yunle-Lee/CANNsim-CUDA/tree/main)** - A tui panel compare the algorithm in CANN SIM with in CUDA
 - ☠️ **[miniCANN-mind](https://github.com/Yunle-Lee/miniCANN-mind)** - My personal study note of minimind on HUAWEI CANN env `From scratch`
 - 👺 **[megaQwen-A10](https://github.com/Yunle-Lee/MegaQwen-A10)** - MegaQwen suit for A10 Nvidia GPU with 24VRAM 
-## Tech Stack
+---
 [![My Skills](https://skillicons.dev/icons?i=go,tensorflow,pytorch,opencv,anaconda,fastapi,md,py,raspberrypi,sklearn&theme=light)](https://skillicons.dev)
 
 
-## My Tools& friends
+---
 <p>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claudecode-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/aistudio.png" width="48" />

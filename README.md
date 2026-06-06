@@ -14,9 +14,7 @@
 - ☠️ **[miniCANN-mind](https://github.com/Yunle-Lee/miniCANN-mind)** - My personal study note of minimind on HUAWEI CANN env `From scratch`
 - 👺 **[megaQwen-A10](https://github.com/Yunle-Lee/MegaQwen-A10)** - MegaQwen suit for A10 Nvidia GPU with 24VRAM 
 ---
-[![My Skills](https://skillicons.dev/icons?i=go,tensorflow,pytorch,opencv,anaconda,fastapi,md,py,raspberrypi,sklearn&theme=light)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=npm,tensorflow,pytorch,opencv,anaconda,fastapi,bun,py,cpp,sklearn,pnpm,typescript&theme=light)](https://skillicons.dev)
 ---
 <p>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claudecode-color.png" width="48" />

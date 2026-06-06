@@ -34,10 +34,8 @@
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/n8n-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/trae-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qwen-color.png" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huawei-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/comfyui-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/grok.png" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/colab-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/colab-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/mcp.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="48" />

@@ -37,6 +37,37 @@
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huawei-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/comfyui-color.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/grok.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/colab-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/colab-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/mcp.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/nanobanana-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/google-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/lmstudio.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/kiro-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/opencode.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/windsurf.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/runway.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qoder-color.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openwebui.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/notion.png" width="48" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </p>

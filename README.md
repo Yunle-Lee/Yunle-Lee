@@ -1,7 +1,7 @@
 # Hi, I'm KiLee 👋
 ## QQmail  `3910387373@qq.com` 
 ## Projects:
-- 🤔 **[babe-Photon](https://github.com/Yunle-Lee/Babe-Photon)** -Photon study notes and try to fit for AMD GPU 
+- 🍉 **[babe-Photon](https://github.com/Yunle-Lee/Babe-Photon)** -Photon study notes and try to fit for AMD GPU 
 - 🍼 **[Nano-VLLm for Baby](https://github.com/Yunle-Lee/Nano-vllm_for_baby)** -A very detailed notes& analysis about nano-vllm for baby or greenhands
 - 🤔 **[CANN Do Nanocaht](https://github.com/Yunle-Lee/CANN-Do-Nanochat)** - CANN version Nanochat rebuilt the ground operator into CANN version npu-version
 - 🧠 **[tq3-ascend-port](https://github.com/Yunle-Lee/tq3-ascend-port)** -TQ3 ascend version by cpp & only solve some issue to fit 910B-npu

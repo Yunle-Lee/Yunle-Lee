@@ -1,7 +1,6 @@
 # Hi, I'm KiLee 👋 19 years old now 😘
 ## | QQmail: |   `3910387373@qq.com` | 
 ## Projects:
-- ☠️ **[Cyber-Kimno](https://github.com/Yunle-Lee/Cyber-Kimono)** -A Cybersecurity Agent for study& combined with the Github common Agent  
 - 🍉 **[babe-Photon](https://github.com/Yunle-Lee/Babe-Photon)** -Photon study notes and try to fit for AMD GPU 
 - 🍼 **[Nano-VLLm for Baby](https://github.com/Yunle-Lee/Nano-vllm_for_baby)** -A very detailed notes& analysis about nano-vllm for baby or greenhands
 - 🤔 **[CANN Do Nanocaht](https://github.com/Yunle-Lee/CANN-Do-Nanochat)** - CANN version Nanochat rebuilt the ground operator into CANN version npu-version

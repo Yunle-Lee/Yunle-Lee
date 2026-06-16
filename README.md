@@ -81,6 +81,11 @@
 </div>
 
 
+## 🎵 Spotify 正在听
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" />
+</div>
+
 ## 📊 GitHub 统计卡片
 
 <div align="center">

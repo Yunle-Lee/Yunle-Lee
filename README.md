@@ -19,7 +19,7 @@
 ## 🎵 Spotify · 🌟 Star Languages
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" /></td>
-<td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.starlists.languages.svg" alt="Star Lists Languages" /></td>
+<td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.stars.svg" alt="Recently Starred" /></td>
 </tr></table>
 
 

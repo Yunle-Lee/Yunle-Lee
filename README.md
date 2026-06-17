@@ -52,22 +52,6 @@
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openwebui.png" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/notion.png" width="48" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </p>
 
 ---
@@ -82,7 +66,7 @@
 
 
 ## 🎵 Spotify 正在听
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" />
 </div>
 

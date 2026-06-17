@@ -16,6 +16,12 @@
 - ☠️ **[miniCANN-mind](https://github.com/Yunle-Lee/miniCANN-mind)** - My personal study note of minimind on HUAWEI CANN env `From scratch`
 - 👺 **[megaQwen-A10](https://github.com/Yunle-Lee/MegaQwen-A10)** - MegaQwen suit for A10 Nvidia GPU with 24VRAM 
 ---
+## 🎵 Spotify 正在听
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" />
+</div>
+
+
 [![My Skills](https://skillicons.dev/icons?i=npm,tensorflow,pytorch,opencv,anaconda,fastapi,bun,py,cpp,sklearn,pnpm,typescript&theme=light)](https://skillicons.dev)
 ---
 <p>
@@ -65,10 +71,7 @@
 </div>
 
 
-## 🎵 Spotify 正在听
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" />
-</div>
+
 
 ## 📊 GitHub 统计卡片
 

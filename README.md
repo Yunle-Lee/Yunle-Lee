@@ -16,7 +16,7 @@
 - ☠️ **[miniCANN-mind](https://github.com/Yunle-Lee/miniCANN-mind)** - My personal study note of minimind on HUAWEI CANN env `From scratch`
 - 👺 **[megaQwen-A10](https://github.com/Yunle-Lee/MegaQwen-A10)** - MegaQwen suit for A10 Nvidia GPU with 24VRAM 
 ---
-## 🎵 Spotify · 🌟 Star Languages
+## 🎵 Spotify:Liked Songs       🌟    Recent Star proj
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" /></td>
 <td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.stars.svg" alt="Recently Starred" /></td>

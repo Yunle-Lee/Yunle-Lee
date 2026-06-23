@@ -17,10 +17,12 @@
 - 👺 **[megaQwen-A10](https://github.com/Yunle-Lee/MegaQwen-A10)** - MegaQwen suit for A10 Nvidia GPU with 24VRAM 
 ---
 ## 🎵 Spotify:Liked Songs       🌟    Recent Star proj
-<table><tr>
-<td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" /></td>
-<td><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.stars.svg" alt="Recently Starred" /></td>
-</tr></table>
+<table>
+<tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.music.recent.svg" alt="Spotify Music" /></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Yunle-Lee/Yunle-Lee/main/metrics.plugin.stars.svg" alt="Recently Starred" /></td>
+</tr>
+</table>
 
 
 [![My Skills](https://skillicons.dev/icons?i=npm,tensorflow,pytorch,opencv,anaconda,fastapi,bun,py,cpp,sklearn,pnpm,typescript&theme=light)](https://skillicons.dev)

@@ -1,5 +1,4 @@
-# Hi, I'm KiLee 👋 19 years old now 😘
-## | QQmail: |   `3910387373@qq.com` | 
+# Hi, I'm KiLee 👋
 ## Projects:
 - 🎃 **[Hermes Desktop](https://github.com/dodo-reach/hermes-desktop/releases/tag/v1.1.0)**  - Here as Hermes Desktop contributer to add self-BG& Terminal scrolling
 - 🍉 **[babe-Photon](https://github.com/Yunle-Lee/Babe-Photon)** -Photon study notes and try to fit for AMD GPU 

@@ -1,6 +1,8 @@
 # Hi, I'm KiLee 👋 Gonna 20 years old ! 
 ## Projects:
 - 🎃 **[Hermes Desktop](https://github.com/dodo-reach/hermes-desktop/releases/tag/v1.1.0)**  - Here as Hermes Desktop contributer to add self-BG& Terminal scrolling
+- 🧠 **[Lobotomy-3D](https://github.com/Yunle-Lee/Lobotomy)** -A high-quailty 3D contact that show u the history & tech
+- 🐨 **[SoCho](https://github.com/Yunle-Lee/Socho)** - A comic shader UI of Agent chat framework 
 - 🍉 **[babe-Photon](https://github.com/Yunle-Lee/Babe-Photon)** -Photon study notes and try to fit for AMD GPU 
 - 🍼 **[Nano-VLLm for Baby](https://github.com/Yunle-Lee/Nano-vllm_for_baby)** -A very detailed notes& analysis about nano-vllm for baby or greenhands
 - 🤔 **[CANN Do Nanocaht](https://github.com/Yunle-Lee/CANN-Do-Nanochat)** - CANN version Nanochat rebuilt the ground operator into CANN version npu-version

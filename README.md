@@ -1,6 +1,8 @@
 # Hi, I'm KiLee 👋 Gonna 20 years old ! 
 ## Projects:
 - 🎃 **[Hermes Desktop](https://github.com/dodo-reach/hermes-desktop/releases/tag/v1.1.0)**  - Here as Hermes Desktop contributer to add self-BG& Terminal scrolling
+- 👌 **[BotLan](https://github.com/Yunle-Lee/BotLan)** - A bot cluster run on the DGX Spark machine
+- 💀 **[JevStep](https://github.com/Yunle-Lee/BotLan-CLI)** - A sys that combine the Jev with StepFun small model which has powerful parreal
 - 🧠 **[Lobotomy-3D](https://github.com/Yunle-Lee/Lobotomy)** -A high-quailty 3D contact that show u the history & tech
 - 🐨 **[SoCho](https://github.com/Yunle-Lee/Socho)** - A comic shader UI of Agent chat framework
 - 🐟 **[Fish-Tank](https://github.com/Yunle-Lee/Fish-tank)** - Web version game built by threejs and 3D also in playing 

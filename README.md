@@ -1,4 +1,4 @@
-# Hi, I'm KiLee 👋 Gonna 20 years old ! 
+# Hi, I'm KiLee 👋 20yrs old 
 ## Projects:
 - 🎃 **[Hermes Desktop](https://github.com/dodo-reach/hermes-desktop/releases/tag/v1.1.0)**  - Here as Hermes Desktop contributer to add self-BG& Terminal scrolling
 - 👌 **[BotLan](https://github.com/Yunle-Lee/BotLan)** - A bot cluster run on the DGX Spark machine
